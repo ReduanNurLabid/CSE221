@@ -1,0 +1,6 @@
+task-1.1: Here i've used nested loop to iterate through the values and checked if the values match. I have used sys library to exit the code when the target sum is found
+task-1.2: To get the linear time we used the help of a dictionary to store the complement(target - value) values. We check the dictionary if the complement value is seen on the array.
+task-2.1: I have implemented the merge sort algorithm to get time complexity of o(nlogn).
+task-2.2: For this task to get o(n) time complexity I used the advantage of the two already sorted list.
+task-3: Here the mergeSort function was already given and i implemented the merge function to get the desired output.
+task-4: By using divide and conquer method I implemented recursion. the list will be divided and will return the sum for each divisions and finally return the max value.
